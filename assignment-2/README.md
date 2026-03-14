@@ -1,1 +1,26 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C_yrNUb3)
+# Assignment 2 — Clustering, PCA, and Unsupervised Learning Diagnostics
+
+## Overview
+This section focuses on clustering, mixture models, dimensionality reduction, and analysis of transformed high-dimensional datasets.
+
+## What it covers
+- polynomial regression experiments
+- K-Means clustering from scratch
+- Gaussian Mixture Models with EM
+- image segmentation via GMM
+- PCA from scratch
+- PCA + classification trade-off studies
+- preprocessing for improved clustering separability
+
+## Data-science skills demonstrated
+- unsupervised learning
+- cluster validation using silhouette score and BIC
+- dimensionality reduction
+- convergence analysis
+- transformation-based recovery of dataset structure
+
+## Key outputs
+- elbow and silhouette plots
+- likelihood-convergence curves
+- explained-variance plots
+- clustering-quality comparisons before and after preprocessing
