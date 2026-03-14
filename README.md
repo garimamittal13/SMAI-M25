@@ -51,18 +51,6 @@ If you're reviewing this repo quickly, these sections are the most representativ
 | `assignment-2/` | Clustering, GMM, PCA, transformed-data analysis | Best unsupervised learning and diagnostics |
 | `assignment-5/` | KDE, forecasting, anomaly detection, VAE | Strongest real-world analytics flavor |
 
-## Representative Outputs
-
-Add 3 screenshots / plots here from your notebooks:
-
-### Structured Data EDA
-![EDA Example](figures/readme/eda_summary.png)
-
-### Clustering / PCA Analysis
-![Clustering Example](figures/readme/clustering_diagnostics.png)
-
-### Forecasting / Anomaly Detection
-![Forecasting Example](figures/readme/forecast_or_anomaly.png)
 
 ## Tech Stack
 
